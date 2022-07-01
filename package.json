@@ -4,7 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "exit 0"
+        "test": "exit 0",
+        "build-storybook": "build-storybook -o docs-build"
     },
     "repository": {
         "type": "git",
