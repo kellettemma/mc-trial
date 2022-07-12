@@ -3,9 +3,6 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
-    "directories": {
-        "dist": "./dist/*.*"
-    },
     "scripts": {
         "test": "exit 0",
         "build-storybook": "build-storybook -o docs-build"
